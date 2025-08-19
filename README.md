@@ -49,8 +49,8 @@
 
 <!-- ================== CONTACT ================== -->
 ### 📫 Contact me
-[![Email](https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joacolucen96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-lucentini-a48066277/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=firefox&logoColor=00FFCC)](https://yourwebsite.com)
 
 
