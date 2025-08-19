@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Data+Science+Student;Database+Management+%7C+Programming+Skills;Problem+Solving+%7C+Critical+Thinking;Student+at+the+National+University+of+La+Plata">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Data+Science+in+Organizations+Student;Database+Management+%7C+Programming+Skills;Problem+Solving+%7C+Critical+Thinking;Student+at+the+National+University+of+La+Plata">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <!-- ================== ABOUT ME ================== -->
 ### 🧑‍💻 About Me
-🎓 Data Science student at the National University of La Plata  
+🎓 Data Science in Organizations Student at the National University of La Plata  
 📊 Passionate about Data Analysis, Machine Learning, and Statistics  
 💡 Strong interest in Database Management and Problem-Solving  
 🌱 I'm always learning new things  
