@@ -14,10 +14,10 @@
 
 <!-- ================== ABOUT ME ================== -->
 ### 🧑‍💻 About Me
-> 🎓 Data Science student at the National University of La Plata  
-> 📊 Passionate about Data Analysis, Machine Learning, and Statistics  
-> 💡 Strong interest in Database Management and Problem-Solving  
-> 🌱 I'm always learning new things  
+🎓 Data Science student at the National University of La Plata  
+📊 Passionate about Data Analysis, Machine Learning, and Statistics  
+💡 Strong interest in Database Management and Problem-Solving  
+🌱 I'm always learning new things  
 
 ---
 
