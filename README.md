@@ -44,7 +44,7 @@
 <!-- ================== PORTFOLIO PROJECTS ================== -->
 ### 📂 Portfolio Projects
 🔹 **Cleaning and Visualization of INDEC data** – Cleaning the EPH and viewing your data in streamlit.  
-🔹 **Scraping, Storing, Cleaning and Viewing titles from News Media Websites** – Scraping, Storing, Cleaning and Viewing titles from News Media Web Pages, in addition to the automated creation of PDF analysis.  
+🔹 **Scraping, Storing, Cleaning and Viewing titles from News Media Websites** – Analysis of scraped data and automatic creation of PDF analysis.  
 
 ---
 
