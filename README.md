@@ -38,13 +38,13 @@
 
 #### 🔹 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
 ---
 
 <!-- ================== PORTFOLIO PROJECTS ================== -->
 ### 📂 Portfolio Projects
 🔹 **Cleaning and Visualization of INDEC data** – Cleaning the EPH and viewing your data in streamlit.  
+🔹 **Scraping, Storing, Cleaning and Viewing titles from News Media Websites** – Scraping, Storing, Cleaning and Viewing titles from News Media Web Pages, in addition to the automated creation of PDF analysis.  
 
 ---
 
