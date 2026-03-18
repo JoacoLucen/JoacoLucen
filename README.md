@@ -45,17 +45,19 @@
 ---
 
 <!-- ================== PORTFOLIO PROJECTS ================== -->
-### 📂 Portfolio Projects
-🔹 **Cleaning and Visualization of INDEC data** – Cleaning the EPH and viewing your data in streamlit.  
-🔹 **Scraping, Cleaning and Viewing titles from News Media Websites** – Analysis of scraped data and automatic creation of PDF analysis.  
-
+### 📂 Portfolio Projects 
+🔹 **Business Analysis Dashboard - BMW** – Interactive Power BI dashboard for sales analysis, featuring automated ETL and dynamic DAX measures.  
+🔹 **TravelData NoSQL: Multi-model Integration** – Database ecosystem using MongoDB, Redis, and Neo4j for travel management and graph-based recommendations.  
+🔹 **Cleaning and Visualization of INDEC data** – Automated cleaning of the EPH survey and interactive demographic visualization using Streamlit.  
+🔹 **Scraping and Analytics of News Media** – Python script for web scraping, SQLite storage, and automated PDF report generation of news trends.  
+🔹 **Personal Investment Portfolio** – Financial tracking tool developed in Google Sheets using Google Finance and a FIFO accounting model.  
 ---
 
 <!-- ================== CONTACT ================== -->
 ### 📫 Contact me
 [![Email](https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joacolucen96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-lucentini-a48066277/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=firefox&logoColor=00FFCC)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=firefox&logoColor=00FFCC)](https://joacolucen.github.io/Joaquin-Lucentini-Portfolio.github.io/)
 
 
 
