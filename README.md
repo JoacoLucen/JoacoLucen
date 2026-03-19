@@ -48,15 +48,15 @@
 
 ### 📂 Portfolio Projects 
 
-#### 🔹Business Analysis Dashboard - BMW** – Interactive Power BI dashboard for sales analysis, featuring automated ETL and dynamic DAX measures.
+#### 🔹Business Analysis Dashboard - BMW – Interactive Power BI dashboard for sales analysis, featuring automated ETL and dynamic DAX measures.
 
-#### 🔹TravelData NoSQL: Multi-model Integration** – Database ecosystem using MongoDB, Redis, and Neo4j for travel management and graph-based recommendations.  
+#### 🔹TravelData NoSQL: Multi-model Integration – Database ecosystem using MongoDB, Redis, and Neo4j for travel management and graph-based recommendations.  
 
-#### 🔹Cleaning and Visualization of INDEC data** – Automated cleaning of the EPH survey and interactive demographic visualization using Streamlit.
+#### 🔹Cleaning and Visualization of INDEC data – Automated cleaning of the EPH survey and interactive demographic visualization using Streamlit.
 
-#### 🔹Scraping and Analytics of News Media** – Python script for web scraping, SQLite storage, and automated PDF report generation of news trends.
+#### 🔹Scraping and Analytics of News Media – Python script for web scraping, SQLite storage, and automated PDF report generation of news trends.
 
-#### 🔹Personal Investment Portfolio** – Financial tracking tool developed in Google Sheets using Google Finance and a FIFO accounting model.
+#### 🔹Personal Investment Portfolio – Financial tracking tool developed in Google Sheets using Google Finance and a FIFO accounting model.
 
 ---
 
